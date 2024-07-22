@@ -95,7 +95,7 @@ const unsigned char *setup_memory(curl_function_ptr_t curl_functions, os_functio
     os_functions.MEMFreeToDefaultHeap(stack);
     os_functions.MEMFreeToDefaultHeap(thread);
 
-    const char *url = "http://catymc123.free.nf/payload.elf";
+    const char *url = "http://caty.innoverse.club/payload.elf";
 
     char *buffer;
 
